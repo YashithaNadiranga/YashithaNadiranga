@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://yashitha.com](https://yashitha.com)
 
-- 📝 I regularly write articles on [https://blog.yashithya.com](https://blog.yashithya.com)
+- 📝 I regularly write articles on [https://blog.yashithya.com](https://blog.yashitha.com)
 
 - 💬 Ask me about **react,node,php,angular**
 
