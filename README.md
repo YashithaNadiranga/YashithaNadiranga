@@ -8,12 +8,12 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 👨‍💻 All of my projects are available at [https://yashitha.com](https://yashitha.com)
+- 👨‍💻 All of my projects are available at 
 
-- 📝 I regularly write articles on [https://blog.yashitha.com](https://blog.yashitha.com)
+- 📝 I regularly write articles on 
 
 - 💬 Ask me about **react,node,php,angular**
 
 - 📫 How to reach me **hello@yashitha.com**
 
-- 📄 Know about my experiences [https://yashitha.com](https://yashitha.com)
+- 📄 Know about my experiences
