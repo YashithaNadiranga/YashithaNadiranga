@@ -14,6 +14,6 @@
 
 - 💬 Ask me about **react,node,php,angular**
 
-- 📫 How to reach me **hello@yashitha.com**
+- 📫 How to reach me **hello@feanixlabs.com**
 
 - 📄 Know about my experiences
